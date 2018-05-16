@@ -1,9 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
+import styled, {keyframes} from 'styled-components';
 
 const Img = styled.img`
-  margin: 10px;
   border-color: black;
   border-width: 10px;
   border-style: solid;
